@@ -20,8 +20,8 @@ HackerRank – Java (Basic)
 
 📈 Currently Working On
 
-DSA practice in Java
-Mini console-based projects
+DSA practice in Java |
+Mini console-based projects |
 Strengthening CSE Core fundamentals
 
 🌐 Connect with Me
