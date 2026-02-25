@@ -14,7 +14,7 @@
 
 📜 Certifications
 
-NPTEL – Big Data Computing (Elite)
+WISER – Quantum Fundamentals Program
 Cisco – Introduction to Cybersecurity
 HackerRank – Java (Basic)
 
