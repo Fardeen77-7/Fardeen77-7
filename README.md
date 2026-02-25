@@ -14,8 +14,8 @@
 
 📜 Certifications
 
-WISER – Quantum Fundamentals Program
-Cisco – Introduction to Cybersecurity
+WISER – Quantum Fundamentals Program |
+Cisco – Introduction to Cybersecurity |
 HackerRank – Java (Basic)
 
 📈 Currently Working On
