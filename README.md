@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Hi, I'm Borampalli Fardeen Khan
 
-<!--
-**Fardeen77-7/Fardeen77-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
+💻 Aspiring Software Engineer
+☕ Focused on Java & Core CS Fundamentals
 
-Here are some ideas to get you started:
+🚀 Skills I'm Building :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Java
+* Data Structures & Algorithms
+* OOP
+* SQL
+* Cybersecurity Fundamentals
+
+📜 Certifications
+
+NPTEL – Big Data Computing (Elite)
+Cisco – Introduction to Cybersecurity
+HackerRank – Java (Basic)
+
+📈 Currently Working On
+
+DSA practice in Java
+Mini console-based projects
+Strengthening CSE Core fundamentals
+
+🌐 Connect with Me
+LinkedIn: https://www.linkedin.com/in/borampalli-fardeen-khan-b626112b8
