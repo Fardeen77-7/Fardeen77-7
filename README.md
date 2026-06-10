@@ -10,7 +10,6 @@
 * Data Structures & Algorithms
 * OOP
 * SQL
-* Cybersecurity Fundamentals
 
 📜 Certifications
 
