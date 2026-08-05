@@ -1,27 +1,28 @@
-👋 Hi, I'm Borampalli Fardeen Khan
+# 👋 Hi, I'm Borampalli Fardeen Khan
 
-🎓 Computer Science Student
-💻 Aspiring Software Engineer
-☕ Focused on Java & Core CS Fundamentals
+🎓 **Computer Science Student**  
+💻 **Aspiring Software Engineer**  
+☕ **Focused on Java & Core CS Fundamentals**
 
-🚀 Skills I'm Building :
+## 🚀 Skills I'm Building
 
-* Java
-* Data Structures & Algorithms
-* OOP
-* SQL
+- Java
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- SQL
 
-📜 Certifications
+## 📜 Certifications
 
-RAMPeX Technologies - Advanced Data Structures using Java |
-HackerRank - SQL (Intermediate) |
-HackerRank – Java (Basic)
+- **RAMPeX Technologies** – Advanced Data Structures using Java
+- **HackerRank** – SQL (Intermediate)
+- **HackerRank** – Java (Basic)
 
-📈 Currently Working On
+## 📈 Currently Working On
 
-DSA practice in Java |
-Mini console-based projects |
-Strengthening CSE Core fundamentals
+- DSA Practice in Java
+- Mini Console-Based Projects
+- Strengthening Core Computer Science Fundamentals
 
-🌐 Connect with Me
-LinkedIn: https://www.linkedin.com/in/borampalli-fardeen-khan-b626112b8
+## 🌐 Connect with Me
+
+- **LinkedIn:** https://www.linkedin.com/in/borampalli-fardeen-khan-b626112b8
