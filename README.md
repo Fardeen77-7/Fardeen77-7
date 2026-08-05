@@ -13,8 +13,8 @@
 
 📜 Certifications
 
-WISER – Quantum Fundamentals Program |
-Cisco – Introduction to Cybersecurity |
+RAMPeX Technologies - Advanced Data Structures using Java
+HackerRank - SQL (Intermediate) 
 HackerRank – Java (Basic)
 
 📈 Currently Working On
