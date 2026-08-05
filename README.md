@@ -13,8 +13,8 @@
 
 📜 Certifications
 
-RAMPeX Technologies - Advanced Data Structures using Java
-HackerRank - SQL (Intermediate) 
+RAMPeX Technologies - Advanced Data Structures using Java |
+HackerRank - SQL (Intermediate) |
 HackerRank – Java (Basic)
 
 📈 Currently Working On
